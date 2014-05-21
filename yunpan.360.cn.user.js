@@ -145,7 +145,7 @@
         	"删除下载记录":"Deleted download history",
         	"取消下载":"Cancel download",
         	"重试下载":"Retry download",
-        	"打开文件所在文件夹":"Open the folder where the file",
+        	"打开文件所在文件夹":"Open the folder where the file"
         };
         for(var t in ts) {
             findAndReplace(t,ts[t]);
