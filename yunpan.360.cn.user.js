@@ -86,7 +86,7 @@
         	"PC客户端下载":"PC client download",
         	"PC客户端":"PC client",
         	"Mac客户端下载":"Mac client download",
-        	"Mac客户端":"Mac client"
+        	"Mac客户端":"Mac client",
         	"桌面快捷版下载":"Download Desktop Shortcut",
         	"桌面快捷版":"Desktop Express Edition",
         	"当前页文件搜索":"This page file search",
